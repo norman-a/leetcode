@@ -6,7 +6,7 @@ Intuition:
 I thought of this as a two pointer question, with each pointer pointing to a row at a time.
 
 Let's look at our first example:
-![img.png](Screenshot 2024-01-03 at 6.10.54 PM.png)
+![](Screenshot 2024-01-03 at 6.10.54 PM.png)
 
 With each iteration, we count how many 1's we have in row i and row j.
 
